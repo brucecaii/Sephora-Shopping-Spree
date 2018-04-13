@@ -4,4 +4,4 @@
 ./**/*.iml
 .idea/*
 *.pyc
-info.json
+./info.json
