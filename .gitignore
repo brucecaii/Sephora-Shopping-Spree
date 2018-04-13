@@ -1,7 +1,6 @@
+info.json
 **/__pycache__
 **/venv
 .idea/
-./**/*.iml
 .idea/*
 *.pyc
-./info.json
